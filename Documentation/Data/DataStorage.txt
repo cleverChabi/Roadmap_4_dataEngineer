@@ -1,0 +1,33 @@
+DATA STORAGE OVERVIEW
+
+What is Data Storage?
+Data storage refers to the method of saving, organizing, and managing digital information. It is used in various applications such as cloud computing, data engineering, and IT infrastructure.
+
+TYPES OF DATA STORAGE:
+1. Primary Storage (RAM, Cache) - Fast, volatile memory used for running applications.
+2. Secondary Storage (HDD, SSD) - Persistent storage for OS files and documents.
+3. Cloud Storage (AWS S3, Azure Blob, Google Cloud Storage) - Scalable and cost-effective remote storage.
+4. Network Storage (NAS, SAN, HDFS) - Distributed file storage over a network.
+5. Object Storage (Amazon S3, Azure Blob) - Stores data as objects rather than files or blocks.
+6. File Storage (Google Filestore, Amazon EFS) - Traditional hierarchical storage for files.
+7. Block Storage (AWS EBS, Azure Disk) - High-performance storage for transactional workloads.
+
+CHARACTERISTICS OF A STORAGE ACCOUNT:
+1. SCALABLE - Supports large data volumes with on-demand scaling.
+2. CHEAP - Cost-effective options like cold and archive storage.
+3. HIGH PERFORMANCE - Low-latency access and fast data retrieval.
+4. RELIABLE - Data replication ensures durability and availability.
+5. REST API - Enables programmatic access and integration.
+6. HIERARCHICAL - Allows structured organization with folders and subfolders.
+7. SECURE - Encryption, access control, and IAM policies.
+8. HADOOP COMPATIBLE - Supports Big Data processing tools like Hadoop and Spark.
+
+WHY IS DATA STORAGE IMPORTANT?
+- Reliability – Ensures data safety and accessibility.
+- Scalability – Expands with business needs.
+- Performance – Supports fast data access.
+- Security – Provides encryption and access control.
+- Cost-Efficiency – Different pricing tiers optimize cost.
+
+Choosing the right storage solution depends on factors like scalability, cost, security, and performance.
+
