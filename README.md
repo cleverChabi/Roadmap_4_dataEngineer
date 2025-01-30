@@ -10,6 +10,8 @@ Cette roadmap fournit un **parcours structuré** pour acquérir les compétences
 ---
 
 ## 📚 Contenu du Repository
+
+> 🚀 Note : Cette section est en cours de développement. 
 <!--  
 🔹 **Concepts de base**  
 - Bases de données SQL & NoSQL  
@@ -42,6 +44,9 @@ Cette roadmap fournit un **parcours structuré** pour acquérir les compétences
 ---
 
 ## 🏁 Plan d’Apprentissage
+
+> 🚀 Note : Cette section est en cours de développement. 
+
 <!-- En cours de revision
 
 ### **📌 Étape 1 : Fondamentaux**
@@ -64,16 +69,24 @@ Cette roadmap fournit un **parcours structuré** pour acquérir les compétences
 ---
 
 ## 🚀 Comment Contribuer ?
+
+> 🚀 Note : Cette section est en cours de développement.
+
+<!--
 Nous encourageons la **participation active** ! Vous pouvez :  
 ✔️ Proposer des corrections et améliorations 🔧  
 ✔️ Ajouter des tutoriels et guides 📖  
 ✔️ Partager vos expériences et cas d’usage 📝  
 
-📌 **Forkez ce repository**, créez une branche et soumettez une Pull Request !  
+📌 **Forkez ce repository**, créez une branche et soumettez une Pull Request !
+
+-->
 
 ---
 
 ## 🎯 Ressources Utiles  
+
+> 🚀 Note : Cette section est en cours de développement. 
 <!-- 
 📌 [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)  
 📌 [Data Engineering on AWS](https://aws.amazon.com/big-data/)  
