@@ -10,7 +10,7 @@ Cette roadmap fournit un **parcours structuré** pour acquérir les compétences
 ---
 
 ## 📚 Contenu du Repository
-
+<!--  
 🔹 **Concepts de base**  
 - Bases de données SQL & NoSQL  
 - Différences OLTP & OLAP  
@@ -38,7 +38,7 @@ Cette roadmap fournit un **parcours structuré** pour acquérir les compétences
 - Data Lineage & Catalog (Apache Atlas, OpenMetadata)  
 - RGPD & Sécurité des données  
 - Optimisation et Monitoring  
-
+-->
 ---
 
 ## 🏁 Plan d’Apprentissage
